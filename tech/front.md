@@ -4,3 +4,5 @@
 2. Gulpjs: [http://gulpjs.com/](http://gulpjs.com/)
 3. webpack: [https://github.com/webpack/webpack](https://github.com/webpack/webpack)
 4. awesome-vue: [https://github.com/vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+5. dynamicsjs: [http://dynamicsjs.com/](dynamicsjs)
+6. animate.css: [https://daneden.github.io/animate.css/](animate.csshttps://daneden.github.io/animate.css/)
